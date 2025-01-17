@@ -1,0 +1,13 @@
+## Analysis Scripts
+
+- **`iRED.py`**: Data for NMR \(S^2\) order parameter was generated using this code, which implements the isotropic reorientational eigenmode dynamics to calculate \(S^2\) (Figure 2).
+
+- **`dihedral_RMSD.py`**: Code for calculation of RMSD in phi and psi dihedral angle space (Figure 3).
+
+- **`ramachandran_data.py`**: Code for extraction of phi-psi angles for all frames of residues in the loop I region, subsequently used for the Ramachandran free energy landscape plot (Figure 4).
+
+- **`salt_bridge_time_evol.py`**: Code for calculation of the time evolution of the number of salt bridges (Figure 5a).
+
+- **`residence_time_salt_bridge.py`**: Code for calculation of the lifetime of all pairs of salt bridges (Figure 5b).
+
+- **`Sod_residence_time.py`**: Code for calculating the residence time of sodium ions around the protein backbone (Figure 6b).
