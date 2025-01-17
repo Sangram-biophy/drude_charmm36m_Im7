@@ -1,4 +1,4 @@
-- **'iRED.py'**: data for NMR S^2 order parameter was generated using this code which implements the isotropic reorientational eigenmode dynamics to calculate S^2 (Figure 2).
+- **`simulation_files`**: - **'iRED.py'**: data for NMR S^2 order parameter was generated using this code which implements the isotropic reorientational eigenmode dynamics to calculate S^2 (Figure 2).
 dihedral_RMSD.py: code for calculation of RMSD in phi and psi dihedral angle space (Figure 3)
 ramachandran_data.py: code for extraction of phi-psi angle for all frames for residues in loop I region which is subsequently used for the ramachandran free energy landscape plot (Figure 4)
 salt_bridge_time_evol.py: code for calculation of time evolution of number of salt bridges (Figure 5a)
