@@ -5,7 +5,7 @@ This repository contains input files for simulation of Im7 and CBD1 protein with
 - **`simulation_setup`**: Starter files to setup Im7 and CBD1 protein simulation with CHARMM36m and DRUDE2019 force field.
 - **`codes`**: important python codes used in the paper which are not directly available in any MD simulation analysis package.
 - **`plots`**: Contains all figures from the main text.
-- **`plots_main_figure.ipynb`**: Jupyter notebook containing codes for plotting of the figures in main text.
+- **`main_figure_plots.ipynb`**: Jupyter notebook containing codes for plotting of the figures in main text.
 
 ## Requirements
 
