@@ -1,8 +1,8 @@
 # Comparative analysis of Im7 dynamics with polarizable and non-polarizable CHARMM family of force fields
-This repository contains input files for simulation of Im7 protein with CHARMM36m and DRUDE2019 force field along with the analysis scripts for comparing the protein dynamics, salt bridge dynamics and cation-protein interactions between the CHARMM36m and DRUDE2019 force fields. The trajectory files used in the analysis can be found at https://doi.org/10.5281/zenodo.14715013
+This repository contains input files for simulation of Im7 and CBD1 protein with CHARMM36m and DRUDE2019 force field along with the analysis scripts for comparing the protein dynamics, salt bridge dynamics and cation-protein interactions between the CHARMM36m and DRUDE2019 force fields. The trajectory files used in the analysis can be found at https://doi.org/10.5281/zenodo.15621049
 
 ## Contents
-- **`simulation_setup`**: Starter files to setup the simulation with CHARMM36m and DRUDE2019 force field.
+- **`simulation_setup`**: Starter files to setup Im7 and CBD1 protein simulation with CHARMM36m and DRUDE2019 force field.
 - **`codes`**: important python codes used in the paper which are not directly available in any MD simulation analysis package.
 - **`plots`**: Contains all figures from the main text.
 - **`plots_main_figure.ipynb`**: Jupyter notebook containing codes for plotting of the figures in main text.
